@@ -2,5 +2,9 @@
 
 
 - 🔭 I’m currently working on university projects.
-- 🌱 I’m currently learning Vue.js and the javascript enviroment
+- My interest are:
+  - 🛠️ Software development
+  - 📊 Data science and ML
+  - 💡 IoT
+<!-- - 🌱 I’m currently learning Vue.js and the javascript enviroment -->
 
